@@ -12,5 +12,5 @@
 * **Digit Recognition Model:** A two-layer neural network implemented from scratch using NumPy.
 
 ### 📊 GitHub Activity
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Rushikesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikesh282006&show_icons=true&theme=radical)
+![Rushikesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh282006&theme=radical)
