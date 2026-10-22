@@ -42,13 +42,13 @@
 
 ### 🛠️ Featured Projects
 
-🔗 **[Multi-Tenant RAG AI System](#)**
+🔗 **[Multi-Tenant RAG AI System](https://document-rag-olive.vercel.app/)**
 <br>Secure, context-aware AI backend architecture built to provide query responses across isolated user environments.
 <br>**Tech Stack:** Python, FastAPI, LLMs, Vector Databases (pgvector(postgres/Neon), LangChain
 
 <br>
 
-🔗 **[Emotion Scanner](#)**
+🔗 **[Emotion Scanner](https://emotion-predictor-j013.onrender.com/)**
 <br>Real-time NLP emotion detection web app that classifies text into six emotion categories with confidence scores.
 <br>**Tech Stack:** Python, Custom Bi-GRU Neural Network, TensorFlow Lite, FastAPI, Vanilla JS
 
@@ -60,9 +60,17 @@
 
 ---
 
-### 📊 GitHub & Problem Solving Stats
+
+### 📊 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh282006&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh282006&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+</div>
+
+---
+
+### 📊 Problem Solving Stats
+  <div align="center">
   <img src="https://leetcard.jacoblin.cool/Rushi_28?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
 </div>
