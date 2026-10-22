@@ -17,8 +17,7 @@
 
 * 🎓 I'm a third-year Information Technology engineering student (CGPA: 9.7/10).
 * 🧠 My core focus is on building **end-to-end Machine Learning pipelines** and **AI-integrated scalable backends**.
-* 🏆 Shortlisted for **Smart India Hackathon** (SIH 2025 & 2026) in the college internal qualifier round.
-* 💡 Continuously improving my problem-solving skills (100+ DSA problems solved).
+* 🤝 **Looking to:** Collaborate on impactful open-source projects with developers who value authentic, reciprocal teamwork.
 
 ---
 
@@ -60,10 +59,24 @@
 
 ---
 
+### 🎯 Current Goals & Learning
+* **Algorithmic Problem Solving:** Solving DSA patterns to continuously enhance problem-solving capabilities.
+* **Robust Backend Systems:** Building stronger, scalable backend-based AI/ML projects and architectures.
+* **Advanced ML Architectures:** Exploring Graph Neural Networks (GNNs) and other advance ml models
 
-### 📊 Development Activity
+---
+
+### 🏆 Hackathons & Achievements
+* **Smart India Hackathon (SIH):** 2x Shortlisted (SIH 2025 & SIH 2026) in the college internal qualifier round.
+* **Hack & Track Hackathon:** Selected in the Top-10 teams in the hackathon organized by Fr. Agnel College, Vashi.
+* **Academic Excellence:** Ranked 2nd in academics in IT branch in both 1st and 2nd year of engineering.
+
+---
+
+### <img src="https://cdn.simpleicons.org/github/white" width="22" style="vertical-align: middle; margin-bottom: 3px;" /> Development Activity
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh282006&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
 </div>
