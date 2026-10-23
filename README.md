@@ -53,7 +53,7 @@
 
 <br>
 
-🔗 **[House Price Predictor](#)**
+🔗 **[House Price Predictor](https://house-price-predictor-gd9p.onrender.com/)**
 <br>End-to-end machine learning pipeline training a Random Forest Regressor, wrapped in a REST API.
 <br>**Tech Stack:** Python, Scikit-learn, FastAPI, Pydantic, NumPy
 
